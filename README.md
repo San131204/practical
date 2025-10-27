@@ -1,3 +1,3 @@
 # practical
-Contributors: sAHIL NIVALKAR
+Contributors: sahil nivalkar 
 
